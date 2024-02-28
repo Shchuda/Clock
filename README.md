@@ -2,6 +2,7 @@
 
 Built using HTML, CSS and JavaScript
 
-<img src="https://github.com/Shchuda/Clock/assets/137898720/cb386a72-bf23-42a8-a4d5-3eeb3c5cea2e" width="420" height="350" />
+<img src="https://github.com/Shchuda/Clock/assets/137898720/4c824b89-3447-4e19-b34d-2d4a28c0901c" width="420" height="350" />
+
 
 
